@@ -1,0 +1,9 @@
+.tooltip {
+    text-align: left;
+    font: 0.9em "Times New Roman";
+    font-weight: bold;
+}
+.icon{
+    padding-left: 5px ;
+    padding-top: 3px;
+}

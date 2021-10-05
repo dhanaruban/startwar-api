@@ -1,0 +1,12 @@
+.tooltip{
+    padding: 10px;
+    font-weight: 400;
+    color: #008cff;
+    left: 45%;
+    position: absolute;
+    top: 45%;
+}
+.container{
+    position: relative;
+    text-align: center;
+}
